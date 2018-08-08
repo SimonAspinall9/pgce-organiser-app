@@ -1,0 +1,1 @@
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\WebView.UWP.csproj;x86

@@ -1,0 +1,62 @@
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\WebView.Android.dll
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\WebView.Android.pdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\com.companyname.WebView.apk
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\com.companyname.WebView-Signed.apk
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\WebView.Android.csprojResolveAssemblyReference.cache
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\WebView.Android.csproj.CoreCompileInputs.cache
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\WebView.Droid.App.xaml.g.cs
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\WebView.Droid.MainPage.xaml.g.cs
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\WebView.Android.dll
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\WebView.Android.pdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\android\bin\com.companyname.WebView.apk
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\res\drawable\icon.png
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\res\drawable-hdpi\icon.png
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\res\drawable-xhdpi\icon.png
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\res\drawable-xxhdpi\icon.png
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\res\layout\tabbar.xml
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\res\layout\toolbar.xml
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\res\values\styles.xml
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\R.cs.flag
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\uploadflags.txt
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\FormsViewGroup.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\WebView.Android.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\Xamarin.Forms.Core.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\android\assets\FormsViewGroup.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\android\assets\WebView.Android.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\obj\Release\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.Android\bin\Release\WebView.Android.dll
+bin\Release\FormsViewGroup.dll.mdb
+bin\Release\Xamarin.Forms.Core.dll.mdb
+bin\Release\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Release\Xamarin.Forms.Xaml.dll.mdb
+bin\Release\Mono.Android.pdb
+bin\Release\mscorlib.pdb
+bin\Release\System.Core.pdb
+bin\Release\System.pdb
+bin\Release\System.Xml.pdb
+bin\Release\System.Xml.Linq.pdb
+bin\Release\System.Net.Http.pdb
+bin\Release\System.Runtime.Serialization.pdb
+bin\Release\System.ServiceModel.Internals.pdb
+bin\Release\Mono.Security.pdb
+bin\Release\System.ComponentModel.Composition.pdb
+obj\Release\linksrc\WebView.Android.dll.mdb
+obj\Release\linksrc\FormsViewGroup.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Release\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Release\linksrc\Mono.Android.pdb
+obj\Release\linksrc\mscorlib.pdb
+obj\Release\linksrc\System.Core.pdb
+obj\Release\linksrc\System.pdb
+obj\Release\linksrc\System.Xml.pdb
+obj\Release\linksrc\System.Xml.Linq.pdb
+obj\Release\linksrc\System.Net.Http.pdb
+obj\Release\linksrc\System.Runtime.Serialization.pdb
+obj\Release\linksrc\System.ServiceModel.Internals.pdb
+obj\Release\linksrc\Mono.Security.pdb
+obj\Release\linksrc\System.ComponentModel.Composition.pdb

@@ -1,0 +1,3 @@
+WebView.UWP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+  WebView.UWP.App.xaml
+  WebView.UWP.MainPage.xaml

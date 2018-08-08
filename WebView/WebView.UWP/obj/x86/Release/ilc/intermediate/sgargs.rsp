@@ -1,0 +1,12 @@
+/out:"C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\intermediate\SgGenerated\\"
+/int:"C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\intermediate\\"
+/ref:"C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed"
+/ref:"C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\intermediate\TransformedSRWR"
+/ref:"C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\in"
+/ref:"C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\in\\"
+/ref:"C:\Users\simon.aspinall\.nuget\packages\microsoft.net.native.compiler\1.7.1\tools\x86\ilc\lib\Private\\"
+/ref:"C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\in\WinMetadata"
+/ca:System.Private.CoreLib
+/cscpath:"C:\Users\simon.aspinall\.nuget\packages\microsoft.net.native.compiler\1.7.1\tools\x86\ilc\csc"
+"@C:\Users\simon.aspinall\Documents\Visual Studio 2017\Projects\WebView\WebView\WebView.UWP\obj\x86\Release\ilc\intermediate\PreMergeILTransformed\ComputedSerializationInput.txt"
