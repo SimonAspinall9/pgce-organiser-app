@@ -2,10 +2,6 @@
 using System.Collections.Generic;
 using System.Linq;
 
-using Microsoft.AppCenter;
-using Microsoft.AppCenter.Analytics;
-using Microsoft.AppCenter.Crashes;
-
 
 using Foundation;
 using UIKit;
@@ -27,10 +23,6 @@ namespace WebView.iOS
         //
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
-            AppCenter.Start("7f70963d-aa05-4821-a747-06bf5118f4c5",
-                typeof(Analytics), typeof(Crashes));
-
-
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App());
 
