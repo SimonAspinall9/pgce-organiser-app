@@ -16,6 +16,9 @@
     <ManifestDocument>obj\Release\lp\16\jl\manifest\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\17\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\2\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\24\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\26\jl\AndroidManifest.xml</ManifestDocument>
+    <ManifestDocument>obj\Release\lp\27\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\4\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\5\jl\AndroidManifest.xml</ManifestDocument>
     <ManifestDocument>obj\Release\lp\6\jl\AndroidManifest.xml</ManifestDocument>
@@ -36,6 +39,9 @@
     <Jar>obj\Release\lp\16\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\17\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\2\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\lp\24\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\lp\26\jl\bin\classes.jar</Jar>
+    <Jar>obj\Release\lp\27\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\3\jl\support-annotations.jar</Jar>
     <Jar>obj\Release\lp\4\jl\bin\classes.jar</Jar>
     <Jar>obj\Release\lp\5\jl\bin\classes.jar</Jar>
